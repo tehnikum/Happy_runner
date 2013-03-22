@@ -763,5 +763,7 @@ printf("\n*********************************************\n");
 		fprintf(fp, "\n t=%10.9f ñ",vesh1[i]);
 		}
 	 }
+	 //vnosim izmeneniya
+	 printf("Hello");
 	return 0;
 }
