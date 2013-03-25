@@ -765,7 +765,7 @@ printf("\n*********************************************\n");
 	 }
 	 //vnosim izmeneniya
 	 printf("Hello");
-	 printf("hello graph");
+	 //printf("hello graph");
 	 getch();
 	return 0;
 }
