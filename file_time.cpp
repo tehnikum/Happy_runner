@@ -765,5 +765,6 @@ printf("\n*********************************************\n");
 	 }
 	 //vnosim izmeneniya
 	 printf("Hello");
+	 printf("Hello1");
 	return 0;
 }
